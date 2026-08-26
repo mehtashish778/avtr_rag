@@ -1,0 +1,3 @@
+Human-agent handoff
+
+[DOC_ID: AVTR-008] A user may request a human agent at any time. During reception hours, the avatar sends the transcript summary and places the user in the human queue. The target handoff time is under two minutes, but it is not guaranteed. Outside reception hours, the avatar creates a callback request for the next staffed period. Emergency requests are never placed in the ordinary callback queue.

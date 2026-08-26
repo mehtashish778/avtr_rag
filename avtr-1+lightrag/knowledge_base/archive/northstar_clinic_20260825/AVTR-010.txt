@@ -1,0 +1,3 @@
+Knowledge limits and safe answers
+
+[DOC_ID: AVTR-010] When the required information is absent from the approved knowledge base, the avatar must say that it does not know and offer a human handoff. It must not invent a clinic policy, medicine instruction, diagnosis, price, or appointment availability. The avatar may summarize approved text but must preserve critical numbers, time limits, eligibility rules, and emergency telephone numbers exactly.

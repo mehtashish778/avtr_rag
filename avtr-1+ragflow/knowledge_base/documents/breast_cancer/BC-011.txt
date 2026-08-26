@@ -1,0 +1,10 @@
+Inherited risk and genetic counseling
+
+[DOC_ID: BC-011]
+Inherited harmful variants in genes such as BRCA1, BRCA2, PALB2, and several others can increase breast cancer risk. Features that may prompt a hereditary-risk assessment include a strong family history, breast cancer at a young age, ovarian or pancreatic cancer in the family, male breast cancer, or a known familial variant. Family history on both the mother’s and father’s sides matters.
+
+Genetic counseling helps a person understand whether testing may be appropriate, possible results, limitations, effects on relatives, and options after testing. A direct-to-consumer result or a family story should not be treated as a clinical diagnosis. Testing decisions and risk-reduction options should be discussed with a qualified genetics professional and clinician.
+
+Sources reviewed 2026-08-25:
+- NCI, Causes and Risk Factors: https://www.cancer.gov/types/breast/causes-risk-factors
+- CDC, Genetic Counseling for Hereditary Breast and Ovarian Cancer: https://www.cdc.gov/breast-ovarian-cancer-hereditary/genetic-counseling/index.html

@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "created_utc": "2026-08-25T11:04:49.816434+00:00",
+  "backend": "txtai",
+  "base_url": "http://127.0.0.1:8001",
+  "host": "gpu-11",
+  "python": "3.12.3",
+  "questions": 16,
+  "top_k": 3,
+  "warmup_requests": 8,
+  "requests_per_level": 120,
+  "concurrency_levels": [
+    1,
+    4,
+    8,
+    16,
+    32
+  ],
+  "percentile_method": "nearest-rank over successful request wall latency",
+  "levels": [
+    {
+      "concurrency": 1,
+      "requests": 120,
+      "successes": 120,
+      "errors": 0,
+      "error_rate": 0.0,
+      "retrieval_hit_rate": 0.9417,
+      "elapsed_seconds": 46.155,
+      "throughput_requests_per_second": 2.6,
+      "latency_ms": {
+        "mean": 384.61,
+        "p50": 383.72,
+        "p95": 616.77,
+        "p99": 816.59,
+        "max": 865.78
+      },
+      "response_bytes_mean": 3477.1,
+      "service_resources": {
+        "process_match": "txtai.api:app",
+        "process_count_before": 1,
+        "process_count_after": 1,
+        "cpu_core_percent_during_level": 21.9,
+        "rss_mib_after": 619.23
+      },
+      "error_counts": {}
+    },
+    {
+      "concurrency": 4,
+      "requests": 120,
+      "successes": 120,
+      "errors": 0,
+      "error_rate": 0.0,
+      "retrieval_hit_rate": 0.9417,
+      "elapsed_seconds": 42.207,
+      "throughput_requests_per_second": 2.843,
+      "latency_ms": {
+        "mean": 1390.64,
+        "p50": 1374.05,
+        "p95": 1729.33,
+        "p99": 1882.12,
+        "max": 1894.12
+      },
+      "response_bytes_mean": 3477.0,
+      "service_resources": {
+        "process_match": "txtai.api:app",
+        "process_count_before": 1,
+        "process_count_after": 1,
+        "cpu_core_percent_during_level": 2.72,
+        "rss_mib_after": 621.28
+      },
+      "error_counts": {}
+    },
+    {
+      "concurrency": 8,
+      "requests": 120,
+      "successes": 120,
+      "errors": 0,
+      "error_rate": 0.0,
+      "retrieval_hit_rate": 0.9417,
+      "elapsed_seconds": 42.816,
+      "throughput_requests_per_second": 2.803,
+      "latency_ms": {
+        "mean": 2772.2,
+        "p50": 2832.58,
+        "p95": 3627.71,
+        "p99": 3950.51,
+        "max": 3965.43
+      },
+      "response_bytes_mean": 3477.0,
+      "service_resources": {
+        "process_match": "txtai.api:app",
+        "process_count_before": 1,
+        "process_count_after": 1,
+        "cpu_core_percent_during_level": 2.57,
+        "rss_mib_after": 623.77
+      },
+      "error_counts": {}
+    },
+    {
+      "concurrency": 16,
+      "requests": 120,
+      "successes": 120,
+      "errors": 0,
+      "error_rate": 0.0,
+      "retrieval_hit_rate": 0.9417,
+      "elapsed_seconds": 38.116,
+      "throughput_requests_per_second": 3.148,
+      "latency_ms": {
+        "mean": 4673.36,
+        "p50": 4872.55,
+        "p95": 5409.7,
+        "p99": 5570.03,
+        "max": 6000.27
+      },
+      "response_bytes_mean": 3477.0,
+      "service_resources": {
+        "process_match": "txtai.api:app",
+        "process_count_before": 1,
+        "process_count_after": 1,
+        "cpu_core_percent_during_level": 2.91,
+        "rss_mib_after": 627.84
+      },
+      "error_counts": {}
+    },
+    {
+      "concurrency": 32,
+      "requests": 120,
+      "successes": 120,
+      "errors": 0,
+      "error_rate": 0.0,
+      "retrieval_hit_rate": 0.9417,
+      "elapsed_seconds": 34.834,
+      "throughput_requests_per_second": 3.445,
+      "latency_ms": {
+        "mean": 8065.56,
+        "p50": 9055.27,
+        "p95": 9652.14,
+        "p99": 9681.93,
+        "max": 9701.86
+      },
+      "response_bytes_mean": 3477.0,
+      "service_resources": {
+        "process_match": "txtai.api:app",
+        "process_count_before": 1,
+        "process_count_after": 1,
+        "cpu_core_percent_during_level": 3.13,
+        "rss_mib_after": 635.99
+      },
+      "error_counts": {}
+    }
+  ]
+}

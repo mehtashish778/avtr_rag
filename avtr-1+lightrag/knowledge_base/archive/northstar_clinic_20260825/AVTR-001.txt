@@ -1,0 +1,3 @@
+Service hours and closures
+
+[DOC_ID: AVTR-001] The Northstar Clinic digital avatar is available every day at all hours for general information. Human reception staff are available Monday through Thursday from 08:00 to 18:00, Friday from 08:00 to 16:00, and Saturday from 09:00 to 13:00. Human reception is closed on Sunday and UAE public holidays. The avatar may still answer general questions when reception is closed, but it cannot confirm a same-day appointment without a human agent.

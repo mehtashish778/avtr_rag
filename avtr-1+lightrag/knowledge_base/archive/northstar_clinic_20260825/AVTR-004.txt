@@ -1,0 +1,3 @@
+Languages and accessibility
+
+[DOC_ID: AVTR-004] The avatar supports spoken English, Arabic, and Hindi. On-screen captions are available in English and Arabic. A text-only mode is available for users who cannot or prefer not to speak. The avatar does not currently provide certified sign-language interpretation. Reception can arrange a human interpreter when requested at least twenty-four hours before an appointment.

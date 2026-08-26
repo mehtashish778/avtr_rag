@@ -1,0 +1,8 @@
+# Retrieval-only txtai service for the controlled AVTR comparison.
+# OPENAI_API_KEY must be present in the txtai server process.
+path: data/txtai-openai-index
+writable: true
+embeddings:
+  path: text-embedding-3-small
+  method: litellm
+  content: true

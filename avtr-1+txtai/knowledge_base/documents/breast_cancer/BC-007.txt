@@ -1,0 +1,9 @@
+Biomarkers and breast cancer subtypes
+
+[DOC_ID: BC-007]
+After diagnosis, tumor tissue is commonly tested for estrogen receptors (ER), progesterone receptors (PR), and HER2. These biomarkers help estimate tumor behavior and identify treatments that may work. Hormone-receptor-positive cancer may respond to endocrine or hormone therapy. HER2-positive cancer may respond to medicines that target HER2.
+
+Triple-negative breast cancer lacks ER, PR, and HER2 expression. It is generally treated using approaches other than hormone therapy or HER2-targeted therapy, such as chemotherapy and, in some situations, immunotherapy. Ki-67 is another marker of cell division that may contribute information. Biomarker status can sometimes change if cancer returns, so clinicians may recommend retesting. A biomarker result must not be used by the assistant to select a drug or dose for an individual.
+
+Source reviewed 2026-08-25:
+- National Cancer Institute, Tests for Breast Cancer Biomarkers: https://www.cancer.gov/types/breast/diagnosis/breast-cancer-biomarker-tests

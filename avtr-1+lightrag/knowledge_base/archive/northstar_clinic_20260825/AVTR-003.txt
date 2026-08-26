@@ -1,0 +1,3 @@
+Privacy and conversation retention
+
+[DOC_ID: AVTR-003] The avatar stores the conversation transcript for thirty days for service quality and dispute resolution. Raw microphone audio is deleted immediately after speech transcription and is not retained. A patient can request deletion of an eligible transcript by asking a human privacy agent. Medical records are stored separately under the clinic health-record policy and are not deleted through the avatar transcript process.

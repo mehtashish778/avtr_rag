@@ -1,0 +1,3 @@
+Payments and refunds
+
+[DOC_ID: AVTR-006] The clinic accepts Visa, Mastercard, Apple Pay, and cash in UAE dirhams. The avatar can create a secure payment link but never asks the patient to speak a complete card number aloud. An unused prepaid consultation can be refunded to the original payment method within seven to ten business days. Completed consultations and late-cancellation fees are not refundable unless a billing investigation finds an error.

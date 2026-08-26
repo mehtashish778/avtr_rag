@@ -1,0 +1,1 @@
+lightrag-hku[api]==1.5.6

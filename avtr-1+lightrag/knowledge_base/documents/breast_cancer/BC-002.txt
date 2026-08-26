@@ -1,0 +1,10 @@
+Possible signs and symptoms
+
+[DOC_ID: BC-002]
+Possible warning signs include a new lump in the breast or underarm, thickening or swelling, a change in breast size or shape, skin dimpling or irritation, redness or flaky skin around the nipple or breast, nipple pulling inward, nipple pain, discharge other than breast milk including blood, or persistent breast pain.
+
+Some people with breast cancer have no symptoms. Most breast lumps are caused by conditions other than cancer, and pain alone does not establish a diagnosis. Even so, a new or unusual breast or underarm change should be reported promptly to a health professional. An abnormal lump should be evaluated even when it is painless. The assistant must not diagnose a symptom from a voice description.
+
+Sources reviewed 2026-08-25:
+- CDC, Symptoms of Breast Cancer: https://www.cdc.gov/breast-cancer/symptoms/index.html
+- WHO, Breast cancer: https://www.who.int/news-room/fact-sheets/detail/breast-cancer

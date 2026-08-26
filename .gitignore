@@ -1,0 +1,61 @@
+# Secrets and local credentials
+**/.env
+**/.env.*
+!**/.env.example
+!**/*.env.example
+**/*.pem
+**/*.key
+**/*credentials*.json
+
+# Python, Pixi, and service environments
+**/.pixi
+**/.pixi/
+**/.venv
+**/.venv/
+**/.rag-venv
+**/.rag-venv/
+**/venv/
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.ruff_cache/
+**/.mypy_cache/
+
+# Runtime data, caches, indexes, and private logs
+runtime
+runtime/
+audit_exports/
+**/.cache
+**/.cache/
+**/logs
+**/logs/
+**/data
+**/data/
+**/results
+**/results/
+**/backups
+**/backups/
+**/rag-audit/
+**/*.log
+**/slurm-*.out
+**/slurm-*.err
+
+# Model artifacts
+**/*.ckpt
+**/*.onnx
+**/*.pt
+**/*.pth
+**/*.safetensors
+**/*.engine
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Migration scratch files
+*.tar
+*.tar.gz
+MIGRATION_PRIVATE_*

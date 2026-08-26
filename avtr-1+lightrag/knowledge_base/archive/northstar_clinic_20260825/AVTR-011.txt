@@ -1,0 +1,3 @@
+Prescription collection
+
+[DOC_ID: AVTR-011] Prescription medicine can be collected only after clinician approval. The patient or an authorized adult must present an Emirates ID or passport. A prescription is held for collection for seven calendar days. Controlled medicine cannot be collected by a courier. The avatar can report whether a prescription is marked ready, but it cannot change the medicine, dose, or prescribing clinician.

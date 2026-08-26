@@ -1,0 +1,3 @@
+Audio and network recovery
+
+[DOC_ID: AVTR-009] If speech recognition fails twice, the avatar asks the user to switch to text mode or repeat the request using a shorter sentence. If the network disconnects, the session may be resumed for five minutes with the same session identifier. After five minutes, the user must start a new session. Payment links remain valid for fifteen minutes even when the voice session disconnects.

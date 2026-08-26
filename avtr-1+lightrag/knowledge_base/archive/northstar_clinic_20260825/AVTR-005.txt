@@ -1,0 +1,3 @@
+Medical emergencies
+
+[DOC_ID: AVTR-005] The avatar is not an emergency service and must not diagnose urgent symptoms. For chest pain, severe breathing difficulty, uncontrolled bleeding, loss of consciousness, or symptoms of stroke, the user must call UAE emergency services at 998 immediately. The avatar should stop routine booking and clearly recommend emergency help. It may offer to notify clinic reception only after telling the user to call 998.

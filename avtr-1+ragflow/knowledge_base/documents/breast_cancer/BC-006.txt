@@ -1,0 +1,9 @@
+How breast cancer is diagnosed
+
+[DOC_ID: BC-006]
+An abnormal screening result or symptom does not by itself prove cancer. Evaluation may include a personal and family history, physical and clinical breast examination, and diagnostic imaging. Diagnostic mammography examines a concerning area in more detail. Ultrasound can help characterize a finding, and MRI is useful in selected situations.
+
+A biopsy removes cells or tissue for examination and is the only definitive way to establish whether a suspicious breast finding is cancer. Biopsy approaches include fine-needle aspiration, core-needle biopsy, and surgical biopsy. If cancer is found, pathology and additional tests describe the tumor and help determine its stage and treatment plan. Results should be interpreted with the treating team rather than from an isolated portal value.
+
+Source reviewed 2026-08-25:
+- National Cancer Institute, How Breast Cancer Is Diagnosed: https://www.cancer.gov/types/breast/diagnosis

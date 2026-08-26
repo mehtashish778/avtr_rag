@@ -1,0 +1,516 @@
+{
+  "schema_version": 1,
+  "created_utc": "2026-08-25T11:22:51.225907+00:00",
+  "backend": "txtai",
+  "dataset": "/l/users/ashish.mehta/avatar_project/avtr-1+txtai/knowledge_base/evaluation/breast_cancer_retrieval_extensive.jsonl",
+  "unique_queries": 96,
+  "categories": {
+    "canonical": 16,
+    "conversational": 16,
+    "keyword": 16,
+    "multi_document": 16,
+    "paraphrase": 16,
+    "voice_noise": 16
+  },
+  "repeats": 3,
+  "concurrency": 8,
+  "top_k_requested": 5,
+  "elapsed_seconds": 127.889,
+  "throughput_requests_per_second": 2.252,
+  "overall": {
+    "observations": 288,
+    "successful": 280,
+    "errors": 8,
+    "hit_at_1": 0.8821,
+    "hit_at_3": 0.9571,
+    "hit_at_5": 0.9571,
+    "precision_at_1": 0.8821,
+    "precision_at_3": 0.3762,
+    "precision_at_5": 0.2279,
+    "recall_at_1": 0.7821,
+    "recall_at_3": 0.9196,
+    "recall_at_5": 0.925,
+    "ndcg_at_1": 0.8821,
+    "ndcg_at_3": 0.9011,
+    "ndcg_at_5": 0.9036,
+    "full_recall_at_1": 0.6893,
+    "full_recall_at_3": 0.8821,
+    "full_recall_at_5": 0.8929,
+    "reciprocal_rank_at_5": 0.9179,
+    "latency_ms": {
+      "mean": 2754.35,
+      "p50": 2678.21,
+      "p95": 3164.0,
+      "max": 6647.72
+    }
+  },
+  "by_category": {
+    "canonical": {
+      "observations": 48,
+      "successful": 46,
+      "errors": 2,
+      "hit_at_1": 0.8696,
+      "hit_at_3": 0.9348,
+      "hit_at_5": 0.9348,
+      "precision_at_1": 0.8696,
+      "precision_at_3": 0.3116,
+      "precision_at_5": 0.187,
+      "recall_at_1": 0.837,
+      "recall_at_3": 0.9022,
+      "recall_at_5": 0.9022,
+      "ndcg_at_1": 0.8696,
+      "ndcg_at_3": 0.8855,
+      "ndcg_at_5": 0.8855,
+      "full_recall_at_1": 0.8043,
+      "full_recall_at_3": 0.8696,
+      "full_recall_at_5": 0.8696,
+      "reciprocal_rank_at_5": 0.9022,
+      "latency_ms": {
+        "mean": 2653.12,
+        "p50": 2662.39,
+        "p95": 3087.64,
+        "max": 3123.97
+      }
+    },
+    "conversational": {
+      "observations": 48,
+      "successful": 45,
+      "errors": 3,
+      "hit_at_1": 0.8667,
+      "hit_at_3": 1.0,
+      "hit_at_5": 1.0,
+      "precision_at_1": 0.8667,
+      "precision_at_3": 0.3333,
+      "precision_at_5": 0.2,
+      "recall_at_1": 0.8667,
+      "recall_at_3": 0.9667,
+      "recall_at_5": 0.9667,
+      "ndcg_at_1": 0.8667,
+      "ndcg_at_3": 0.9258,
+      "ndcg_at_5": 0.9258,
+      "full_recall_at_1": 0.8667,
+      "full_recall_at_3": 0.9333,
+      "full_recall_at_5": 0.9333,
+      "reciprocal_rank_at_5": 0.9222,
+      "latency_ms": {
+        "mean": 2703.44,
+        "p50": 2628.17,
+        "p95": 3145.86,
+        "max": 6623.88
+      }
+    },
+    "keyword": {
+      "observations": 48,
+      "successful": 48,
+      "errors": 0,
+      "hit_at_1": 0.8125,
+      "hit_at_3": 0.9375,
+      "hit_at_5": 0.9375,
+      "precision_at_1": 0.8125,
+      "precision_at_3": 0.3125,
+      "precision_at_5": 0.1875,
+      "recall_at_1": 0.8125,
+      "recall_at_3": 0.9062,
+      "recall_at_5": 0.9062,
+      "ndcg_at_1": 0.8125,
+      "ndcg_at_3": 0.8761,
+      "ndcg_at_5": 0.8761,
+      "full_recall_at_1": 0.8125,
+      "full_recall_at_3": 0.875,
+      "full_recall_at_5": 0.875,
+      "reciprocal_rank_at_5": 0.875,
+      "latency_ms": {
+        "mean": 2657.6,
+        "p50": 2659.6,
+        "p95": 3164.0,
+        "max": 6192.8
+      }
+    },
+    "multi_document": {
+      "observations": 48,
+      "successful": 48,
+      "errors": 0,
+      "hit_at_1": 0.9375,
+      "hit_at_3": 1.0,
+      "hit_at_5": 1.0,
+      "precision_at_1": 0.9375,
+      "precision_at_3": 0.6667,
+      "precision_at_5": 0.4125,
+      "recall_at_1": 0.4479,
+      "recall_at_3": 0.9375,
+      "recall_at_5": 0.9688,
+      "ndcg_at_1": 0.9375,
+      "ndcg_at_3": 0.9224,
+      "ndcg_at_5": 0.9373,
+      "full_recall_at_1": 0.0,
+      "full_recall_at_3": 0.875,
+      "full_recall_at_5": 0.9375,
+      "reciprocal_rank_at_5": 0.9688,
+      "latency_ms": {
+        "mean": 3024.94,
+        "p50": 2698.81,
+        "p95": 6557.06,
+        "max": 6616.16
+      }
+    },
+    "paraphrase": {
+      "observations": 48,
+      "successful": 47,
+      "errors": 1,
+      "hit_at_1": 0.9362,
+      "hit_at_3": 0.9362,
+      "hit_at_5": 0.9362,
+      "precision_at_1": 0.9362,
+      "precision_at_3": 0.3121,
+      "precision_at_5": 0.1872,
+      "recall_at_1": 0.9043,
+      "recall_at_3": 0.9043,
+      "recall_at_5": 0.9043,
+      "ndcg_at_1": 0.9362,
+      "ndcg_at_3": 0.9115,
+      "ndcg_at_5": 0.9115,
+      "full_recall_at_1": 0.8723,
+      "full_recall_at_3": 0.8723,
+      "full_recall_at_5": 0.8723,
+      "reciprocal_rank_at_5": 0.9362,
+      "latency_ms": {
+        "mean": 2646.84,
+        "p50": 2629.15,
+        "p95": 3076.04,
+        "max": 3093.73
+      }
+    },
+    "voice_noise": {
+      "observations": 48,
+      "successful": 46,
+      "errors": 2,
+      "hit_at_1": 0.8696,
+      "hit_at_3": 0.9348,
+      "hit_at_5": 0.9348,
+      "precision_at_1": 0.8696,
+      "precision_at_3": 0.3116,
+      "precision_at_5": 0.187,
+      "recall_at_1": 0.837,
+      "recall_at_3": 0.9022,
+      "recall_at_5": 0.9022,
+      "ndcg_at_1": 0.8696,
+      "ndcg_at_3": 0.8855,
+      "ndcg_at_5": 0.8855,
+      "full_recall_at_1": 0.8043,
+      "full_recall_at_3": 0.8696,
+      "full_recall_at_5": 0.8696,
+      "reciprocal_rank_at_5": 0.9022,
+      "latency_ms": {
+        "mean": 2833.84,
+        "p50": 2678.96,
+        "p95": 3368.38,
+        "max": 6647.72
+      }
+    }
+  },
+  "by_difficulty": {
+    "hard": {
+      "observations": 132,
+      "successful": 129,
+      "errors": 3,
+      "hit_at_1": 0.7907,
+      "hit_at_3": 0.907,
+      "hit_at_5": 0.907,
+      "precision_at_1": 0.7907,
+      "precision_at_3": 0.4264,
+      "precision_at_5": 0.2605,
+      "recall_at_1": 0.5736,
+      "recall_at_3": 0.8256,
+      "recall_at_5": 0.8372,
+      "ndcg_at_1": 0.7907,
+      "ndcg_at_3": 0.8024,
+      "ndcg_at_5": 0.8079,
+      "full_recall_at_1": 0.3721,
+      "full_recall_at_3": 0.7442,
+      "full_recall_at_5": 0.7674,
+      "reciprocal_rank_at_5": 0.845,
+      "latency_ms": {
+        "mean": 2858.95,
+        "p50": 2692.32,
+        "p95": 6192.8,
+        "max": 6647.72
+      }
+    },
+    "standard": {
+      "observations": 156,
+      "successful": 151,
+      "errors": 5,
+      "hit_at_1": 0.9603,
+      "hit_at_3": 1.0,
+      "hit_at_5": 1.0,
+      "precision_at_1": 0.9603,
+      "precision_at_3": 0.3333,
+      "precision_at_5": 0.2,
+      "recall_at_1": 0.9603,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "ndcg_at_1": 0.9603,
+      "ndcg_at_3": 0.9853,
+      "ndcg_at_5": 0.9853,
+      "full_recall_at_1": 0.9603,
+      "full_recall_at_3": 1.0,
+      "full_recall_at_5": 1.0,
+      "reciprocal_rank_at_5": 0.9801,
+      "latency_ms": {
+        "mean": 2664.99,
+        "p50": 2651.69,
+        "p95": 3108.73,
+        "max": 6623.88
+      }
+    }
+  },
+  "stability": {
+    "queries_with_repeats": 96,
+    "exact_top5_stability": 1.0,
+    "top1_stability": 1.0
+  },
+  "full_recall_at_3_failures": [
+    {
+      "case_id": "EXT-Q013-C",
+      "base_id": "BC-Q013",
+      "category": "canonical",
+      "difficulty": "standard",
+      "expected_doc_ids": [
+        "BC-012"
+      ],
+      "ranked_doc_ids": [],
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "error": "ReadTimeout: "
+    },
+    {
+      "case_id": "EXT-Q014-C",
+      "base_id": "BC-Q014",
+      "category": "canonical",
+      "difficulty": "hard",
+      "expected_doc_ids": [
+        "BC-007",
+        "BC-013"
+      ],
+      "ranked_doc_ids": [
+        "BC-007",
+        "BC-009",
+        "BC-010",
+        "BC-011",
+        "BC-008"
+      ],
+      "hit_at_3": 1.0,
+      "recall_at_3": 0.5,
+      "error": null
+    },
+    {
+      "case_id": "EXT-Q016-C",
+      "base_id": "BC-Q016",
+      "category": "canonical",
+      "difficulty": "hard",
+      "expected_doc_ids": [
+        "BC-013"
+      ],
+      "ranked_doc_ids": [
+        "BC-012",
+        "BC-008",
+        "BC-007",
+        "BC-004",
+        "BC-009"
+      ],
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "error": null
+    },
+    {
+      "case_id": "EXT-Q014-X",
+      "base_id": "BC-Q014",
+      "category": "conversational",
+      "difficulty": "hard",
+      "expected_doc_ids": [
+        "BC-007",
+        "BC-013"
+      ],
+      "ranked_doc_ids": [
+        "BC-009",
+        "BC-007",
+        "BC-010",
+        "BC-012",
+        "BC-008"
+      ],
+      "hit_at_3": 1.0,
+      "recall_at_3": 0.5,
+      "error": null
+    },
+    {
+      "case_id": "EXT-Q014-K",
+      "base_id": "BC-Q014",
+      "category": "keyword",
+      "difficulty": "hard",
+      "expected_doc_ids": [
+        "BC-007",
+        "BC-013"
+      ],
+      "ranked_doc_ids": [
+        "BC-009",
+        "BC-007",
+        "BC-010",
+        "BC-011",
+        "BC-012"
+      ],
+      "hit_at_3": 1.0,
+      "recall_at_3": 0.5,
+      "error": null
+    },
+    {
+      "case_id": "EXT-Q016-K",
+      "base_id": "BC-Q016",
+      "category": "keyword",
+      "difficulty": "hard",
+      "expected_doc_ids": [
+        "BC-013"
+      ],
+      "ranked_doc_ids": [
+        "BC-007",
+        "BC-008",
+        "BC-012",
+        "BC-009",
+        "BC-006"
+      ],
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "error": null
+    },
+    {
+      "case_id": "EXT-M012",
+      "base_id": "MULTI-012",
+      "category": "multi_document",
+      "difficulty": "hard",
+      "expected_doc_ids": [
+        "BC-001",
+        "BC-006"
+      ],
+      "ranked_doc_ids": [
+        "BC-008",
+        "BC-006",
+        "BC-007",
+        "BC-011",
+        "BC-013"
+      ],
+      "hit_at_3": 1.0,
+      "recall_at_3": 0.5,
+      "error": null
+    },
+    {
+      "case_id": "EXT-M015",
+      "base_id": "MULTI-015",
+      "category": "multi_document",
+      "difficulty": "hard",
+      "expected_doc_ids": [
+        "BC-008",
+        "BC-013"
+      ],
+      "ranked_doc_ids": [
+        "BC-008",
+        "BC-009",
+        "BC-011",
+        "BC-012",
+        "BC-013"
+      ],
+      "hit_at_3": 1.0,
+      "recall_at_3": 0.5,
+      "error": null
+    },
+    {
+      "case_id": "EXT-Q012-P",
+      "base_id": "BC-Q012",
+      "category": "paraphrase",
+      "difficulty": "standard",
+      "expected_doc_ids": [
+        "BC-011"
+      ],
+      "ranked_doc_ids": [],
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "error": "ReadTimeout: "
+    },
+    {
+      "case_id": "EXT-Q014-P",
+      "base_id": "BC-Q014",
+      "category": "paraphrase",
+      "difficulty": "hard",
+      "expected_doc_ids": [
+        "BC-007",
+        "BC-013"
+      ],
+      "ranked_doc_ids": [
+        "BC-007",
+        "BC-009",
+        "BC-010",
+        "BC-011",
+        "BC-006"
+      ],
+      "hit_at_3": 1.0,
+      "recall_at_3": 0.5,
+      "error": null
+    },
+    {
+      "case_id": "EXT-Q016-P",
+      "base_id": "BC-Q016",
+      "category": "paraphrase",
+      "difficulty": "hard",
+      "expected_doc_ids": [
+        "BC-013"
+      ],
+      "ranked_doc_ids": [
+        "BC-007",
+        "BC-008",
+        "BC-009",
+        "BC-012",
+        "BC-005"
+      ],
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "error": null
+    },
+    {
+      "case_id": "EXT-Q014-V",
+      "base_id": "BC-Q014",
+      "category": "voice_noise",
+      "difficulty": "hard",
+      "expected_doc_ids": [
+        "BC-007",
+        "BC-013"
+      ],
+      "ranked_doc_ids": [
+        "BC-007",
+        "BC-011",
+        "BC-009",
+        "BC-006",
+        "BC-008"
+      ],
+      "hit_at_3": 1.0,
+      "recall_at_3": 0.5,
+      "error": null
+    },
+    {
+      "case_id": "EXT-Q016-V",
+      "base_id": "BC-Q016",
+      "category": "voice_noise",
+      "difficulty": "hard",
+      "expected_doc_ids": [
+        "BC-013"
+      ],
+      "ranked_doc_ids": [
+        "BC-008",
+        "BC-012",
+        "BC-007",
+        "BC-004",
+        "BC-005"
+      ],
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "error": null
+    }
+  ]
+}

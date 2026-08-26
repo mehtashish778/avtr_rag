@@ -1,0 +1,10 @@
+Stage, spread, and recurrence
+
+[DOC_ID: BC-008]
+Breast cancer staging considers features such as tumor size, lymph-node involvement, spread to distant organs, tumor grade, and biomarker results. In situ disease remains where it began. Invasive disease has entered nearby tissue. Metastatic, or stage IV, breast cancer has spread to distant parts of the body.
+
+Recurrence means breast cancer returns after treatment. It may be local in the original area, regional in nearby tissue or lymph nodes, or distant in another organ. Recurrence can happen years after treatment, although risk varies by cancer type and individual features. Persistent or worsening bone, chest, back, or hip pain; unexplained neurologic symptoms; ongoing cough or breathing difficulty; jaundice; or unexplained weight loss warrant contact with the care team. These symptoms can also have non-cancer causes and require clinical evaluation.
+
+Sources reviewed 2026-08-25:
+- NCI, Breast Cancer Recurrence: https://www.cancer.gov/types/breast/breast-cancer-survivorship/recurrence
+- WHO, Breast cancer: https://www.who.int/news-room/fact-sheets/detail/breast-cancer

@@ -1,0 +1,3 @@
+Visitor check-in and minors
+
+[DOC_ID: AVTR-007] Patients should arrive with an Emirates ID or passport. A new patient should arrive twenty minutes early; a returning patient should arrive ten minutes early. A patient younger than sixteen must be accompanied by a parent or legal guardian. The avatar can start check-in, but reception verifies identity and guardianship before the clinical visit. Photographs of identity documents must not be shown to the public lobby camera.

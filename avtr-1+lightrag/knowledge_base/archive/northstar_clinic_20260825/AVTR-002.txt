@@ -1,0 +1,3 @@
+Appointments and late arrival
+
+[DOC_ID: AVTR-002] Patients may book, reschedule, or cancel an appointment through the digital avatar. A cancellation made at least four hours before the appointment has no cancellation fee. A later cancellation or missed appointment may incur a fee of 75 AED. Patients arriving more than fifteen minutes late may be moved to the next available slot. Emergency symptoms must not be handled through appointment booking.
