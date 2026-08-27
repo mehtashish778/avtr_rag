@@ -39,18 +39,14 @@ wait_for_url() {
   local url=$1
   local pid=$2
   local log_file=$3
-  local attempts=${4:-180}
-  for _ in $(seq 1 "$attempts"); do
-    if curl -fsS "$url" >/dev/null; then
-      return 0
-    fi
-    if ! kill -0 "$pid" 2>/dev/null; then
-      echo "Process $pid exited before $url became healthy" >&2
-      tail -n 120 "$log_file" >&2 || true
-      return 1
-    fi
-    sleep 2
-  done
+  local retries=${4:-180}
+  if curl -fsS --retry "$retries" --retry-delay 2 --retry-connrefused \
+    --retry-all-errors --retry-max-time "$((retries * 2))" "$url" >/dev/null; then
+    return 0
+  fi
+  if ! kill -0 "$pid" 2>/dev/null; then
+    echo "Process $pid exited before $url became healthy" >&2
+  fi
   echo "Timed out waiting for $url" >&2
   tail -n 120 "$log_file" >&2 || true
   return 1
