@@ -1,0 +1,12 @@
+Safety boundaries for breast-cancer questions
+
+[DOC_ID: BC-013]
+This knowledge base provides general educational information. It cannot diagnose cancer, interpret an individual scan or pathology report, calculate a personal prognosis, select treatment, prescribe medicine, or provide a dose. Those tasks require qualified clinicians with the complete medical record.
+
+For a new breast or underarm lump, nipple discharge including blood, skin dimpling, nipple inversion, or another persistent change, recommend timely clinical evaluation. For severe breathing difficulty, loss of consciousness, uncontrolled bleeding, or another immediately life-threatening condition, advise local emergency services. Do not delay urgent care to continue a voice conversation.
+
+If the requested fact is absent, say it is not available in the approved knowledge base and recommend an appropriate health professional. Do not invent screening schedules, survival estimates, drug advice, clinic services, prices, or appointment availability.
+
+Source basis reviewed 2026-08-25:
+- CDC, Symptoms of Breast Cancer: https://www.cdc.gov/breast-cancer/symptoms/index.html
+- NCI, How Breast Cancer Is Diagnosed: https://www.cancer.gov/types/breast/diagnosis
