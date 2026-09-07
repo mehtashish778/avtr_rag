@@ -1,0 +1,10 @@
+Screening for people at average risk
+
+[DOC_ID: BC-004]
+Screening looks for breast cancer before symptoms appear. A mammogram is an x-ray of the breast and is the primary screening test for most people of screening age. Screening can find cancer earlier, but it does not prevent breast cancer and can also produce false-positive results, overdiagnosis, or additional testing.
+
+In the United States, the current USPSTF recommendation is a mammogram every two years for women aged 40 through 74 who are at average risk. This is a US recommendation, not a universal schedule. Guidance can differ by country, age, health history, and risk level. A person should use the recommendations of their local health authority and make an informed decision with a clinician.
+
+Sources reviewed 2026-08-25:
+- CDC, Screening for Breast Cancer: https://www.cdc.gov/breast-cancer/screening/index.html
+- USPSTF, Screening for Breast Cancer: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening

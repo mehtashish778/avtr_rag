@@ -1,0 +1,10 @@
+High-risk screening and breast awareness
+
+[DOC_ID: BC-005]
+People at higher-than-average risk may need a screening plan different from the average-risk schedule. Breast MRI is sometimes used together with mammography for people at high risk. MRI is not normally used by itself for average-risk screening because it can appear abnormal when cancer is absent. Dense breasts can both increase risk and make tumors harder to see on a mammogram.
+
+Breast self-awareness means knowing how one’s breasts normally look and feel and reporting a new change. It is not a substitute for recommended screening. A clinical breast exam or breast self-exam has not by itself been shown to reduce the risk of dying from breast cancer. The appropriate combination of mammography, MRI, or other assessment must be selected by a clinician using the person’s risk and history.
+
+Sources reviewed 2026-08-25:
+- CDC, Screening for Breast Cancer: https://www.cdc.gov/breast-cancer/screening/index.html
+- CDC, Breast Cancer Risk Factors: https://www.cdc.gov/breast-cancer/risk-factors/index.html

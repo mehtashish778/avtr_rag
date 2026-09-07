@@ -1,0 +1,10 @@
+Breast cancer overview
+
+[DOC_ID: BC-001]
+Breast cancer begins when abnormal cells in breast tissue grow without normal control. It commonly starts in milk ducts or milk-producing lobules. In situ disease is confined to where it began; invasive cancer has entered nearby breast tissue. Cancer can spread through lymph nodes or blood to distant organs, which is called metastatic breast cancer.
+
+Breast cancer occurs mainly in women, but men can also develop it. WHO estimates that about 0.5% to 1% of breast cancers occur in men. Early detection linked to timely diagnosis and appropriate treatment improves outcomes. General information cannot determine whether an individual has cancer; symptoms or abnormal screening results require assessment by a qualified clinician.
+
+Sources reviewed 2026-08-25:
+- World Health Organization, Breast cancer: https://www.who.int/news-room/fact-sheets/detail/breast-cancer
+- National Cancer Institute, Breast Cancer: https://www.cancer.gov/types/breast

@@ -1,0 +1,10 @@
+Breast surgery and radiation therapy
+
+[DOC_ID: BC-010]
+The main breast operations are lumpectomy, which removes the tumor with surrounding tissue while conserving the breast, and mastectomy, which removes the breast. Some people also have lymph-node evaluation. Breast reconstruction may be immediate or delayed and is a separate decision. The appropriate operation depends on clinical findings and patient preferences.
+
+Radiation therapy uses high-energy radiation to kill cancer cells or stop their growth. It is commonly considered after breast-conserving surgery and in selected situations after mastectomy. Possible short-term effects include fatigue and skin changes in the treated area. Possible later effects vary and can include tissue changes, lymphedema, and, less commonly, heart or lung effects depending on the treatment area. The treating team should explain individual benefits and risks.
+
+Sources reviewed 2026-08-25:
+- NCI, Surgery for Breast Cancer: https://www.cancer.gov/types/breast/treatment/surgery
+- NCI, Radiation Therapy for Breast Cancer: https://www.cancer.gov/types/breast/treatment/radiation

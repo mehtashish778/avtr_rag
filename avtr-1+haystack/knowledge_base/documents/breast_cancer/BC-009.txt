@@ -1,0 +1,10 @@
+Treatment planning and major treatment types
+
+[DOC_ID: BC-009]
+Breast cancer treatment is individualized. Important inputs include stage, tumor biology and biomarkers, general health, previous treatment, and the patient’s values. Major treatment types include surgery, radiation therapy, chemotherapy, endocrine or hormone therapy, targeted therapy, and immunotherapy. More than one type is often combined.
+
+Treatment given before surgery is called neoadjuvant therapy; treatment given after surgery to reduce recurrence risk is called adjuvant therapy. Hormone-receptor-positive tumors may benefit from endocrine therapy, while HER2-positive tumors may benefit from HER2-targeted therapy. Treatment should be prescribed and monitored by an oncology team. The assistant can explain categories but must not recommend a personal regimen, change a medicine, or provide a dose.
+
+Sources reviewed 2026-08-25:
+- WHO, Breast cancer: https://www.who.int/news-room/fact-sheets/detail/breast-cancer
+- NCI, Advances in Breast Cancer Research: https://www.cancer.gov/types/breast/research

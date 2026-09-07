@@ -1,0 +1,10 @@
+Risk factors and risk reduction
+
+[DOC_ID: BC-003]
+Breast cancer risk reflects a combination of factors. Risk generally increases with age. Other established factors include inherited harmful variants such as BRCA1 or BRCA2, dense breasts, a personal history of breast cancer or certain high-risk breast conditions, relevant family history, and previous chest radiation at a young age.
+
+Potentially modifiable factors associated with higher risk include physical inactivity, overweight or obesity after menopause, drinking alcohol, and some forms of menopausal hormone therapy. Having a risk factor does not mean that cancer will occur, and people without a known family history can still develop breast cancer. Healthy behavior may reduce risk but cannot guarantee prevention. Individual risk and screening decisions should be discussed with a clinician.
+
+Sources reviewed 2026-08-25:
+- CDC, Breast Cancer Risk Factors: https://www.cdc.gov/breast-cancer/risk-factors/index.html
+- NCI, Causes and Risk Factors: https://www.cancer.gov/types/breast/causes-risk-factors
