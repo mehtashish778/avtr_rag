@@ -1,8 +1,18 @@
 # AVTR-RAG workspace
 
-This is the canonical CIAI workspace for comparing three independent AVTR-1
+## About
+
+This repository is part of the **AVATAR PROJECT POC** at the
+**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**. It is the
+canonical CIAI workspace for developing and comparing independent AVTR-1
+retrieval-augmented generation integrations.
+
+## Repository variants
+
+This workspace compares four independent AVTR-1
 integrations:
 
+- `avtr-1+haystack`
 - `avtr-1+lightrag`
 - `avtr-1+txtai`
 - `avtr-1+ragflow`
